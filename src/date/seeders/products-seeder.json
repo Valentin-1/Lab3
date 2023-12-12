@@ -1,0 +1,29 @@
+[
+    {
+        "roduct_id": 1,
+        "category_id": 2,
+        "manufaacturer_id": 3,
+        "product_name": "Xiaomi Mi A1",
+        "product_image": "Image",
+        "description": "Informatie generala",
+        "price": "6000"
+    },
+    {
+        "roduct_id": 2,
+        "category_id": 2,
+        "manufaacturer_id": 3,
+        "product_name": "Xiaomi Redmi 6",
+        "product_image": "Image",
+        "description": "Informatie generala 2",
+        "price": "3000"
+    },
+    {
+        "roduct_id": 3,
+        "category_id": 2,
+        "manufaacturer_id": 3,
+        "product_name": "Xiaomi Redmi 6 Pro",
+        "product_image": "Image",
+        "description": "Informatie generala 3",
+        "price": "4000"
+    }
+]
