@@ -1,7 +1,7 @@
 src/api/controllers/auth-test.js
 src/api/routes/users-test.js
 src/app-test.js
-.json
+*.json
 
 
 
